@@ -1,0 +1,17 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+tkinter_venv/
+
+# Local backup
+rock_paper_scissorsgui_backup.py.py
